@@ -65,8 +65,8 @@ ann.fit(X_train, y_train, batch_size = 32, epochs = 100)
 # Predicting the result of a single observation
 
 """
-Homework:
-Use our ANN model to predict if the customer with the following informations will leave the bank: 
+Test our ANN Model:
+Lets use ANN model to predict if the customer with the following informations will leave the bank: 
 Geography: France
 Credit Score: 600
 Gender: Male
