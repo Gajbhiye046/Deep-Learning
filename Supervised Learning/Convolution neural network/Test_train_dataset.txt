@@ -1,0 +1,4 @@
+Note -
+Download Dogs vs. Cats dataset made available for kaggle competition.
+url : https://www.kaggle.com/c/dogs-vs-cats/data
+The training archive contains 25,000 images of dogs and cats. Train your algorithm on these files and predict the labels for test1.zip (1 = dog, 0 = cat).

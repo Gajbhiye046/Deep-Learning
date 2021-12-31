@@ -1,0 +1,1 @@
+Note : Use the same dataset which is provided with Boltzmann Machine subfolder.
